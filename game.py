@@ -52,7 +52,7 @@ def main():
     blue_blobs[2].y = 100
     blue_blobs[2].size = 15
     print({**red_blobs, **blue_blobs})"""
-
+###
 
     while 1:
         for event in pygame.event.get():
